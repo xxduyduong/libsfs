@@ -1,0 +1,9 @@
+#install4j response file for SmartFoxServer 2X 2.7.0
+#Wed Jan 14 14:10:30 ICT 2015
+sys.programGroupAllUsers$Boolean=false
+sys.programGroupDisabled$Boolean=true
+sys.languageId=en
+sys.programGroupName=SmartFoxServer 2X
+sys.adminRights$Boolean=true
+installAsService$Boolean=false
+sys.installationDir=D\:\\Setup\\Dev\\sfs\\SmartFoxServer_2X
